@@ -28,3 +28,14 @@
 - PHEx says it's outdated! What do I do? [Ignore that](https://github.com/afkvido/ghostPHEX#readme)
 - What do I do if hack arrow isn't showing up? [We can help you in the PMGH discord server](https://discord.gg/XQDfbfq)
 - I have another problem! [Ask in the PMGH discord server](https://discord.gg/XQDfbfq)
+
+## Build from source
+- [Download](https://github.com/afkvido/ghostPHEX/archive/refs/heads/main.zip) or [clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) this repository
+- Go to the [Unzipped](https://github.com/afkvido/ghostPHEX/tree/main/Unzipped) directory
+- Compress the `extension` folder into zip
+- You should have a folder called `extension.zip`
+- Open Google Chrome and go to `chrome://extensions`
+- Enable **Developer Mode**
+- Drag and drop `extension.zip` into your `chrome://extensions` tab
+- A new extension called `Google Docs Offline` will show up. This is actually ghostPHEX.
+- If you need help using the hacks, read **How to Use**
