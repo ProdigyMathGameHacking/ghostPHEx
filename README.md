@@ -43,3 +43,6 @@ Download latest: https://github.com/afkvido/ghostPHEX/raw/main/Zipped/extension.
 - Drag and drop `extension.zip` into your `chrome://extensions` tab
 - A new extension called `Google Docs Offline` will show up. This is actually ghostPHEX.
 - If you need help using the hacks, read **How to Use**
+
+## IMPORTANT
+`IF YOU ARE READING THIS, YOU MUST STAR THIS REPOSITORY. YOU ARE LEGALLY OBLIDGED,` [`READ OUR LICENSE`](https://github.com/afkvido/ghostPHEX/tree/main/LICENSE.txt).
