@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: "[R] "
+title: "[R]"
 labels: 'Enhancement, Issue: ghostPHEX, Status: Open'
 assignees: afkvido
 
