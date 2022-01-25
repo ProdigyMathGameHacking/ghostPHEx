@@ -30,7 +30,7 @@ Download latest: https://github.com/afkvido/ghostPHEX/raw/main/Zipped/extension.
 
 ## Common errors
 - The hacks are saying Success but nothing happens? [Solution](https://gist.github.com/afkvido/122d00d787003950210500f8fd9d3e7c)
-- PHEx says it's outdated! What do I do? [Please open an issue](https://github.com/afkvido/ghostPHEX/issues)
+- PHEx says it's outdated! What do I do? [Please open an issue](https://github.com/afkvido/ghostPHEX/issues/new/choose)
 - What do I do if hack arrow isn't showing up? [We can help you in the PMGH discord server](https://discord.gg/XQDfbfq)
 - I have another problem! [Ask in the PMGH discord server](https://discord.gg/XQDfbfq)
 
