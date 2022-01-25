@@ -25,7 +25,6 @@ Download latest: https://github.com/afkvido/ghostPHEX/raw/main/Zipped/extension.
 ## How to use
 - Make sure ghostPHEX is installed. Once you're positive it's installed, proceed to the next step.
 - [Go to prodigy](https://play.prodigygame.com)
-- Log in as normal. PHEX will warn you that the extension is outdated and the hacks might not work. Click `Cancel` and proceed (Clicking `OK` would kick you off). 
 - After 10-20 seconds, a small arrow should appear at the top left of your screen. Click it, and the hacks should appear.
 
 ## Common errors
