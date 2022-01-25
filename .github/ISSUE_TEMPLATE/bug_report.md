@@ -2,7 +2,7 @@
 name: Bug report
 about: Report a bug to help us improve ghostPHEX
 title: "[B]"
-labels: Bug
+labels: 'Bug, Status: Open'
 assignees: afkvido
 
 ---
