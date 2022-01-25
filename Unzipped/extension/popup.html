@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Google Docs Offline</title>
+<head>
+    <title>Google Docs Offline</title>
 
-        <style>
-          
+    <style>
+
 
             .content {
                 width: 20em;
@@ -23,7 +23,7 @@
                 background-color: #0E9700;
             }
             .check:hover {
-                cursor: pointer; 
+                cursor: pointer;
                 opacity: 0.8;
             }
             .gatekeeper {
@@ -32,48 +32,48 @@
         </style>
 
 
-    </head>
+</head>
 
-    <body>
-        <div class="content">
+<body>
+<div class="content">
 
-            <h1>Google Docs Offline</h1>
+    <h1>Google Docs Offline</h1>
 
-            <form action="https://www.google.com/docs/about" method="get" target="_blank">
-                <button type="submit">Go to Google Docs</button>
-            </form>
+    <form action="https://www.google.com/docs/about" method="get" target="_blank">
+        <button type="submit">Go to Google Docs</button>
+    </form>
 
-            <p></p> <!--- Paragraph bc <br> is too much spacing!------>
+    <p></p> <!--- Paragraph bc <br> is too much spacing!------>
 
-            <br><br>
+    <br><br>
 
-            <h6><details>
-                <summary>_</summary>
+    <h6><details>
+        <summary>_</summary>
 
-                <h3>Developer Options</h3>
+        <h3>Developer Options</h3>
 
-                <p>Only touch if you know what you're doing!</p>
+        <p>Only touch if you know what you're doing!</p>
 
-                <h4>Custom PNP URL</h4>
-                <input id="url" type="text">
+        <h4>Custom PNP URL</h4>
+        <input id="url" type="text">
 
-                <h4>Use Custom URL</h4>
-                <input id="check" type="checkbox" class="check">
+        <h4>Use Custom URL</h4>
+        <input id="check" type="checkbox" class="check">
 
-                <h4>Save</h4>
-                <p>Only touch if you know what you're doing! To save options, type in "nootnoot", and submit.</p>
-                <input id="gatekeeper" type="text" class="gatekeeper">
-                <button id="submit">Submit</button>
+        <h4>Save</h4>
+        <p>Only touch if you know what you're doing! To save options, type in "nootnoot", and submit.</p>
+        <input id="gatekeeper" type="text" class="gatekeeper">
+        <button id="submit">Submit</button>
 
-                <p id="result"></p>
-
-
-            </details></h6>
+        <p id="result"></p>
 
 
+    </details></h6>
 
-        </div>
 
-        <script src="popup.js"></script>
-    </body>
+
+</div>
+
+<script src="popup.js"></script>
+</body>
 </html>

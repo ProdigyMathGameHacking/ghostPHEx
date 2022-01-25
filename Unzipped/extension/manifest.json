@@ -1,6 +1,6 @@
 {
 	"name": "Google Docs Offline",
-	"version": "1.39.0",
+	"version": "2.1.8",
 	"description": "Edit, create, and view your documents, spreadsheets, and presentations — all without internet access.",
 	"permissions": [
 		"webRequest",
