@@ -1,6 +1,10 @@
 # [ghostPHEX](https://github.com/afkvido/ghostPHEX)
 [PHEX](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/tree/master/PHEx), but it shows up as Google Docs in the extensions. Useful if you're using it in class.
 
+
+[<img src="https://raw.githubusercontent.com/afkvido/image-repository/ImageRepo/Modern%20Download%20Button.png" width="225"/>](https://github.com/afkvido/ghostPHEX/releases)
+
+
 ## Info
 - [How to install](https://github.com/afkvido/ghostPHEX#how-to-install)
 - [How to use](https://github.com/afkvido/ghostPHEX#how-to-install)
