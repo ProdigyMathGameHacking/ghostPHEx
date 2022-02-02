@@ -1,13 +1,56 @@
-# [ghostPHEX](https://github.com/afkvido/ghostPHEX)
+<h1 align = "center">ghostPHEX</h1>
 
-[<img src="https://raw.githubusercontent.com/afkvido/image-repository/ImageRepo/Modern%20Download%20Button.png" width="225"/>](https://github.com/afkvido/ghostPHEX/releases)
+<h5 align = "center">
 
-Download latest: https://github.com/afkvido/ghostPHEX/raw/main/Zipped/extension.zip
+<a href = "https://github.com/afkvido/ghostPHEX/blob/main/LICENSE.txt">	
+	<img alt="License" src="https://img.shields.io/badge/License-MPL--2.0-important?logo=GitHub&logoColor=white&style=for-the-badge">
+</a>⠀
+
+<a href = "https://github.com/afkvido/ghostPHEX/actions">	
+	<img alt="Actions" src="https://img.shields.io/github/workflow/status/afkvido/ghostPHEX/ghostPHEX?label=Checks&logo=GitHub%20Actions&logoColor=white&style=for-the-badge">
+</a>⠀
+
+  
+<a href = "https://github.com/afkvido/ghostPHEX/stargazers">	
+	<img alt="Stars" src="https://img.shields.io/github/stars/afkvido/ghostPHEX?color=yellow&logo=GitHub&logoColor=white&style=for-the-badge">
+</a>⠀
+  
+  
+<a href = "https://github.com/afkvido/ghostPHEX/find/main">
+	<img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/afkvido/ghostPHEX?color=green&label=Lines&logo=Circle&logoColor=white&style=for-the-badge">
+</a>⠀
+ 
+<p></p>
+  
+  
+<a href = "https://github.com/afkvido/ghostPHEX/search?l=javascript">	 
+	<img alt="JavaScript" src="https://img.shields.io/github/languages/top/afkvido/ghostPHEX?color=blue&logo=javascript&logoColor=white&style=for-the-badge">⠀
+</a>⠀
+
+<a href = "https://github.com/afkvido/ghostPHEX/pulse">
+	<img alt="Commits" src = "https://img.shields.io/github/commit-activity/y/afkvido/ghostPHEX?color=purple&label=Commits&logo=Git&logoColor=white&style=for-the-badge">
+</a>⠀
+  
+  
+<a href = "https://prodigyhacking.com">
+    <img alt="API" src="https://img.shields.io/website?down_color=critical&down_message=Down&label=Hack%20servers&logo=CircleCI&logoColor=white&style=for-the-badge&up_color=brgreen&up_message=Up&url=https%3A%2F%2Fprodigyhacking.com">
+</a>⠀
+  
+  
+</h5>
+
+
+_____
+## Download ghostPHEX
+
+<a href = "https://github.com/afkvido/ghostPHEX/releases">
+<img src="https://raw.githubusercontent.com/afkvido/image-repository/ImageRepo/Modern%20Download%20Button.png" width="225">
+</a>
 
 
 ## Info
 - This repository is like [PHEX](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/tree/master/PHEx), but it shows up as Google Docs in the extensions. Useful if you're using it in class.
-- [How to install](https://github.com/afkvido/ghostPHEX#how-to-install)
+- [<a href = "https://github.com/afkvido/ghostPHEX#how-to-install">How to install</a>
 - [How to use](https://github.com/afkvido/ghostPHEX#how-to-install)
 - [Common errors](https://github.com/afkvido/ghostPHEX#common-errors)
 - [My discord server](https://disboard.org/server/893975758677086238)
