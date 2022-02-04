@@ -50,8 +50,8 @@ _____
 
 ## Info
 - This repository is like [PHEX](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/tree/master/PHEx), but it shows up as Google Docs in the extensions. Useful if you're using it in class.
-- [<a href = "https://github.com/afkvido/ghostPHEX#how-to-install">How to install</a>
-- [How to use](https://github.com/afkvido/ghostPHEX#how-to-install)
+- <a href = "https://github.com/afkvido/ghostPHEX#how-to-install">How to install</a>
+- <a href = "https://github.com/afkvido/ghostPHEX#how-to-use">How to use</a>
 - [Common errors](https://github.com/afkvido/ghostPHEX#common-errors)
 - [My discord server](https://disboard.org/server/893975758677086238)
 - [PMGH Original Repository](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking), [PMGH discord sever](https://discord.gg/XQDfbfq)
