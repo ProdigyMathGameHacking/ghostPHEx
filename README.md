@@ -1,39 +1,39 @@
-<h1 align = "center">ghostPHEX</h1>
+<h1 align = "center">ghostPHEx</h1>
 
 <h5 align = "center">
 
-<a href = "https://github.com/afkvido/ghostPHEX/blob/main/LICENSE.txt">	
+<a href = "https://github.com/ProdigyPNP/ghostPHEx/blob/main/LICENSE.txt">	
 	<img alt="License" src="https://img.shields.io/badge/License-MPL--2.0-important?logo=GitHub&logoColor=white&style=for-the-badge">
 </a>⠀
 
-<a href = "https://github.com/afkvido/ghostPHEX/actions">	
+<a href = "https://github.com/ProdigyPNP/ghostPHEx/actions">	
 	<img alt="Actions" src="https://img.shields.io/github/workflow/status/afkvido/ghostPHEX/ghostPHEX?label=Checks&logo=GitHub%20Actions&logoColor=white&style=for-the-badge">
 </a>⠀
 
   
-<a href = "https://github.com/afkvido/ghostPHEX/stargazers">	
+<a href = "https://github.com/ProdigyPNP/ghostPHEx/stargazers">	
 	<img alt="Stars" src="https://img.shields.io/github/stars/afkvido/ghostPHEX?color=yellow&logo=GitHub&logoColor=white&style=for-the-badge">
 </a>⠀
   
   
-<a href = "https://github.com/afkvido/ghostPHEX/find/main">
+<a href = "https://github.com/ProdigyPNP/ghostPHEx/find/main">
 	<img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/afkvido/ghostPHEX?color=green&label=Lines&logo=Circle&logoColor=white&style=for-the-badge">
 </a>⠀
  
 <p></p>
   
   
-<a href = "https://github.com/afkvido/ghostPHEX/search?l=javascript">	 
+<a href = "https://github.com/ProdigyPNP/ghostPHEx/search?l=javascript">	 
 	<img alt="JavaScript" src="https://img.shields.io/github/languages/top/afkvido/ghostPHEX?color=blue&logo=javascript&logoColor=white&style=for-the-badge">⠀
 </a>⠀
 
-<a href = "https://github.com/afkvido/ghostPHEX/pulse">
+<a href = "https://github.com/ProdigyPNP/ghostPHEx/pulse">
 	<img alt="Commits" src = "https://img.shields.io/github/commit-activity/y/afkvido/ghostPHEX?color=purple&label=Commits&logo=Git&logoColor=white&style=for-the-badge">
 </a>⠀
   
   
-<a href = "https://prodigyhacking.com">
-    <img alt="API" src="https://img.shields.io/website?down_color=critical&down_message=Down&label=Hack%20servers&logo=CircleCI&logoColor=white&style=for-the-badge&up_color=brgreen&up_message=Up&url=https%3A%2F%2Fprodigyhacking.com">
+<a href = "https://p-np.prodigypnp.repl.co">
+    <img alt="API" src="https://img.shields.io/website?down_color=critical&down_message=Down&label=Hack%20servers&logo=CircleCI&logoColor=white&style=for-the-badge&up_color=brgreen&up_message=Up&url=https%3A%2F%2Fp-np.prodigypnp.repl.co">
 </a>⠀
   
   
