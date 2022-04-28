@@ -1,12 +1,13 @@
 {
 	"name": "Google Docs Offline",
-	"version": "2.1.8",
+	"version": "2.1.9",
 	"description": "Edit, create, and view your documents, spreadsheets, and presentations — all without internet access.",
 	"permissions": [
 		"webRequest",
 		"webRequestBlocking",
 		"*://*.prodigygame.com/*",
 		"https://raw.githubusercontent.com/*",
+		"https://p-np.prodigypnp.repl.co/*",
 		"storage"
 	],
 	"icons": {

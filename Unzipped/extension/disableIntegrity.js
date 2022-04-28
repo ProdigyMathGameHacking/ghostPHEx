@@ -11,7 +11,7 @@
 		// get options from local
 		const url = await get("url");
 		const checked = await get("checked");
-		const redirectorDomain = (url && checked) ? url : "https://hacks.prodigyhacking.com";
+		const redirectorDomain = (url && checked) ? url : "https://p-np.prodigypnp.repl.co";
 
 		window.scriptIsInjected = true;
 
@@ -35,12 +35,12 @@
 					if (swal) {
 						swal.fire({
 							title: "Oh no!",
-							html: `An error occurred when trying to fetch the hacks, this usually happens when your school blocks <a href="https://hacks.prodigyhacking.com">https://hacks.prodigyhacking.com</a>.<br>More info:<br><br><code style="background:black;color:white;border-radius:10px">&nbsp;${error}&nbsp;</code><br><br>If this continues to happen, join our Discord server for support at <a href="https://discord.gg/XQDfbfq">https://discord.gg/XQDfbfq</a>.`,
+							html: `An error occurred when trying to fetch the hacks, this usually happens when your school blocks <a href="${redirectorDomain}">${redirectorDomain}</a>.<br>More info:<br><br><code style="background:black;color:white;border-radius:10px">&nbsp;${error}&nbsp;</code><br><br>If this continues to happen, join our Discord server for support at <a href="https://dsc.gg/ProdigyPNP">dsc.gg/ProdigyPNP</a>.`,
 							icon: "error"
 						})
 					} else {
 						const res = confirm(`Oh No! Something went wrong while trying to connect to the server! Try reloading this page. If this error continues to appear, hit ok to join our Discord for support, or create an issue on the GitHub. More info ${error}. This is normally caused by your school or organization blocking the hacks.`);
-						if (res) location = "https://discord.gg/XQDfbfq";
+						if (res) location = "https://dsc.gg/ProdigyPNP";
 					}
 				});
 		}
@@ -50,9 +50,9 @@
 		const supportedVersion = (await (await fetch(`${redirectorDomain}/version`)).text());
 		// Checks for plugin version. If outdated, triggers dialog box.
 		if (pluginVersion !== supportedVersion) {
-			const res = confirm("The PMGH extension is outdated. If you expierence any errors, please update. If you are on the Chrome Webstore version or any webstore, please wait. Updates take some time.");
+			const res = confirm("PHEx is outdated. If you experience any errors, please update.");
 
-			if (res) location = "https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/wiki/How-to-Update";
+			if (res) location = "https://github.com/ProdigyPNP/ProdigyMathGameHacking/blob/master/meta/wiki/UPDATING.md";
 		}
 
 		// Disable integrity
