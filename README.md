@@ -33,7 +33,7 @@
   
   
 <a href = "https://p-np.prodigypnp.repl.co">
-    <img alt="API" src="https://img.shields.io/website?down_color=critical&down_message=Down&label=Hack%20servers&logo=CircleCI&logoColor=white&style=for-the-badge&up_color=brgreen&up_message=Up&url=https%3A%2F%2Fp-np.prodigypnp.repl.co">
+    <img alt="API" src="https://img.shields.io/website?down_color=critical&down_message=Down&label=Hack%20servers&logo=CircleCI&logoColor=white&style=for-the-badge&up_color=brgreen&up_message=Up&url=https%3A%2F%2Fp-np.prodigypnp.repl.co/game.min.js">
 </a>⠀
   
   
