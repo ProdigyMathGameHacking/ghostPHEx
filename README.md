@@ -43,22 +43,22 @@
 _____
 ## Download ghostPHEX
 
-<a href = "https://github.com/afkvido/ghostPHEX/releases">
+<a href = "https://github.com/ProdigyPNP/ghostPHEX/releases">
 <img src="https://raw.githubusercontent.com/afkvido/image-repository/ImageRepo/Modern%20Download%20Button.png" width="225">
 </a>
 
 
 ## Info
-- This repository is like [PHEX](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking/tree/master/PHEx), but it shows up as Google Docs in the extensions. Useful if you're using it in class.
-- <a href = "https://github.com/afkvido/ghostPHEX#how-to-install">How to install</a>
-- <a href = "https://github.com/afkvido/ghostPHEX#how-to-use">How to use</a>
-- [Common errors](https://github.com/afkvido/ghostPHEX#common-errors)
+- This repository is like [PHEX](https://github.com/ProdigyPNP/ProdigyMathGameHacking/tree/master/PHEx), but it shows up as Google Docs in the extensions. Useful if you're using it in class.
+- <a href = "https://github.com/ProdigyPNP/ghostPHEX#how-to-install">How to install</a>
+- <a href = "https://github.com/ProdigyPNP/ghostPHEX#how-to-use">How to use</a>
+- [Common errors](https://github.com/ProdigyPNP/ghostPHEX#common-errors)
 - [My discord server](https://disboard.org/server/893975758677086238)
-- [PMGH Original Repository](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking), [PMGH discord sever](https://discord.gg/XQDfbfq)
+- [PMGH Original Repository](https://github.com/ProdigyPNP/ProdigyMathGameHacking), [PMGH discord sever](https://dsc.gg/ProdigyPPN)
 
 
 ## How to install
-- [Download ghostPHEX](https://github.com/afkvido/ghostPHEX/raw/main/Zipped/extension.zip)
+- [Download ghostPHEX](https://github.com/ProdigyPNP/ghostPHEX/raw/main/Zipped/extension.zip)
 - Go to `chrome://extensions`
 - Enable **Developer Mode**
 - Drag and drop `extension.zip` into your `chrome://extensions` tab
