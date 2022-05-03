@@ -72,13 +72,13 @@ _____
 
 ## Common errors
 - The hacks are saying Success but nothing happens? [Solution](https://gist.github.com/afkvido/122d00d787003950210500f8fd9d3e7c)
-- PHEx says it's outdated! What do I do? [Please open an issue](https://github.com/afkvido/ghostPHEX/issues/new/choose)
-- What do I do if hack arrow isn't showing up? [We can help you in the PMGH discord server](https://discord.gg/XQDfbfq)
-- I have another problem! [Ask in the PMGH discord server](https://discord.gg/XQDfbfq)
+- PHEx says it's outdated! What do I do? [Please open an issue](https://github.com/ProdigyPNP/ghostPHEX/issues/new/choose)
+- What do I do if hack arrow isn't showing up? [We can help you in the PMGH discord server](https://dsc.gg/ProdigyPNP)
+- I have another problem! [Ask in the PMGH discord server](https://dsc.gg/ProdigyPNP)
 
 ## Build from source
-- [Download](https://github.com/afkvido/ghostPHEX/archive/refs/heads/main.zip) or [clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) this repository
-- Go to the [Unzipped](https://github.com/afkvido/ghostPHEX/tree/main/Unzipped) directory
+- [Download](https://github.com/ProdigyPNP/ghostPHEX/archive/refs/heads/main.zip) or [clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) this repository
+- Go to the [Unzipped](https://github.com/ProdigyPNP/ghostPHEX/tree/main/Unzipped) directory
 - Compress the `extension` folder into zip
 - You should have a folder called `extension.zip`
 - Open Google Chrome and go to `chrome://extensions`
@@ -88,4 +88,4 @@ _____
 - If you need help using the hacks, read **How to Use**
 
 ## IMPORTANT
-`IF YOU ARE READING THIS, YOU MUST STAR THIS REPOSITORY. YOU ARE LEGALLY OBLIDGED,` [`READ OUR LICENSE.`](https://github.com/afkvido/ghostPHEX/tree/main/LICENSE.txt)
+`IF YOU ARE READING THIS, YOU MUST STAR THIS REPOSITORY. YOU ARE LEGALLY OBLIDGED,` [`READ OUR LICENSE.`](https://github.com/ProdigyPNP/ghostPHEX/tree/main/LICENSE.txt)
