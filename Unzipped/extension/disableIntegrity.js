@@ -7,11 +7,16 @@
 		});
 	}
 
+
+
 	if (!window.scriptIsInjected) {
 		// get options from local
 		const url = await get("url");
 		const checked = await get("checked");
-		const redirectorDomain = (url && checked) ? url : "https://p-np.prodigypnp.repl.co";
+		const redirectorDomain = (url && checked) ? url : "https://infinitezero.net/eval";
+
+
+
 
 		window.scriptIsInjected = true;
 
@@ -19,7 +24,8 @@
 			fetch(`${redirectorDomain}/game.min.js?updated=${Date.now()}`)
 				.then(res => res.text())
 				.then(response => {
-					console.log("Connection to server was Successful!");
+					console.log("[PHEx] Connection to server was Successful!");
+					console.log(redirectorDomain);
 
 					// <script src="https://code.prodigygame.com/code/3-13-0/game.min.js?v=3-13-0" onload="SW.Load.onGameLoad();" crossorigin="anonymous"></script>
 					// we cancel the real game.min, and just append ours
@@ -56,13 +62,13 @@
 		}
 
 		// Disable integrity
-		console.groupCollapsed("integrity patches");
+		console.groupCollapsed("[PHEx] integrity patches");
 		[...document.getElementsByTagName("script"), ...document.getElementsByTagName("link")].forEach(v => {
 			if (v.integrity) {
-				console.log(v.integrity);
+				console.log("[PHEx] " + v.integrity);
 				v.removeAttribute("integrity");
 			}
 		});
-		console.groupEnd("integrity patches");
+		console.groupEnd("[PHEx] integrity patches");
 	}
 })();
