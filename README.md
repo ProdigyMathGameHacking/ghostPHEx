@@ -44,7 +44,7 @@ _____
 ## Download ghostPHEX
 
 <a href = "https://github.com/ProdigyPNP/ghostPHEX/releases">
-<img src="https://raw.githubusercontent.com/afkvido/image-repository/ImageRepo/Modern%20Download%20Button.png" width="225">
+<img src="https://raw.githubusercontent.com/ProdigyPNP/image-storage/main/download.png" width="225">
 </a>
 
 
