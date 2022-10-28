@@ -1,3 +1,8 @@
+<h1 align = "center">Deprecated as people have been using this with bad faith.</h1>
+<br>
+
+# see https://github.com/ProdigyPNP for working prodigy hacks lol
+
 <h1 align = "center">ghostPHEx</h1>
 
 <h5 align = "center">
